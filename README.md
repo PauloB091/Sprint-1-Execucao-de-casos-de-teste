@@ -1,6 +1,6 @@
-## Checklists de Execucao
+## Checklists de Execução
 
-### Checklist de Pre-execucao
+### Checklist de Pre-execução
 
 -   Ambiente de teste devidamente configurado
 -   Versao do sistema validada e disponivel para teste
@@ -8,7 +8,7 @@
 -   Dados de teste necessarios disponiveis
 -   Permissoes de acesso liberadas para os testadores
 
-### Checklist Durante a Execucao
+### Checklist Durante a Execução
 
 -   Executar cada caso de teste conforme o roteiro definido
 -   Registrar o resultado de cada passo executado
@@ -16,7 +16,7 @@
 -   Reproduzir falhas identificadas para confirmar o comportamento
 -   Anotar observacoes relevantes sobre o comportamento do sistema
 
-### Checklist de Pos-execucao
+### Checklist de Pos-execução
 
 -   Atualizar o status final de todos os casos de teste
 -   Abrir relatorios de bugs para todas as falhas encontradas
