@@ -1,0 +1,18 @@
+ID do bug,Título,Etapas para reprodução,Resultado esperado,Resultado real,Prioridade
+BR1,Os titulos das areas no mapa são clicaveis,1 - Abra o mapa da Urban Routes,O local não é clicavel,Um pop up abre com o nome do local,Baixa
+,,2 - Clique em um local presente no mapa,,,
+BR2,"O campo ""De"" não fica vazio ao ser clicado",1 - Abra o mapa da Urban Routes,O campo fica vazio,"O campo é preenchido com ""East 2nd street, 601""",Baixa
+,,"2 - Clique no botão ""De""",,,
+BR3,"Não é possivel pesquisar objetos no campo ""Para""",1 - Abra o mapa da Urban Routes,O campo deve ser preenchido pelo local pesquisado ou uma lista de opçoes,O local não é pesquisado,Alta
+,,"2 - Clique no botão ""Para""",,,
+,,3 - Digite o local a ser pesquisado,,,
+BR4,"O mapa não recebe zoom ou é marcado com um pino ao espeficicar um local com o botão ""De""",1 - Abra o mapa da Urban Routes,O local esperado recebe um zoom e é marcado com um pino.,O zoom não é dado e o pino não aparece,Alta
+,,"2 - Clique no botão ""De""",,,
+,,3 - Insira um local,,,
+BR5,"O mapa não recebe zoom ou é marcado com um pino ao espeficicar um local com o botão ""Para""",1 - Abra o mapa da Urban Routes,O local esperado recebe um zoom e é marcado com um pino.,O zoom não é dado e o pino não aparece,Alta
+,,"2 - Clique no botão ""Para""",,,
+,,3 - Insira um local,,,
+BR6,O icone de parques não aparece no mapa,1 - Abra o mapa da Urban Routes,O parque é marcado com um icone,O icone não é exibido,Média
+,,2 - De zoom em um parque,,,
+BR7,As informações do aplicativo não são mostradas ao clicar no logo do Urban Routes,1 - Abra o Urban Routes,As informaçoes são mostradas,Nada acontece,Baixa
+,,2 - Clique no logotipo,,,
